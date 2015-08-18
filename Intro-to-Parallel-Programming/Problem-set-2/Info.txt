@@ -1,4 +1,4 @@
 This problem set was to blur an image.
 My part was to create the kernals that separated the channels and blurred them. 
 Also, to launch the the kernals using the correct number of blocks and threads per block.
-The other code was provided.
+The file my work was completed in was student_func.cu. The other code was provided.
